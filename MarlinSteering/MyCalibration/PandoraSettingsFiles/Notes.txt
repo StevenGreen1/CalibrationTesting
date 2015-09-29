@@ -1,0 +1,1 @@
+These pandora settings files are those associated to PandoraPFA (specifically the MarlinPandora tag) v02-00-00.
